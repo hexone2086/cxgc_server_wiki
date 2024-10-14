@@ -1,4 +1,4 @@
-![alt text](./src/image/title.png)
+![title image](./src/image/title_bar.png)
 # 创新工~~厂~~场服务器 WIKI
 
 ## 主要情况
