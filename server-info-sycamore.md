@@ -11,3 +11,10 @@
 * Desktop: KDE-plasma
 * Cuda Version: 12.6
 * Muti User: support
+
+## 管理策略
+服务器采用单系统多用户模式运行，用户策略：
+
+* 禁用 root 用户
+* 管理员用户 cxgc_a40
+* 其他用户为普通组，无 sudo 权限
