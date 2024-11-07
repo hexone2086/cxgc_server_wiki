@@ -1,5 +1,9 @@
-![title image](./src/image/title_bar.png)
+<!-- ![title image](./src/image/title_bar.png) -->
+<img src="./src/image/title_bar.png" align="right" width=480 />
+
 # 创新工~~厂~~场服务器 WIKI
+
+*****
 
 ## 主要情况
 > 仅适用于工场特车所团队
@@ -12,6 +16,7 @@
 * [Jasmine - (,8\*RTX4090 24G,,)]()
 * [Lavender - (,8\*RTX4090 24G,,)]()
 
+以及 AutoDL 上可租用的服务器，详见[AutoDL 租用]()
 ### 网络环境
 
 
@@ -25,6 +30,11 @@
 
 #### 公网
 > 部分服务器可用通过公网服务器转发的 xrdp 连接
+
+Sycamore-A40
+```shell
+ssh -p 7010 <username>@cxgc.brisky.space
+```
 
 #### 局域网
 
