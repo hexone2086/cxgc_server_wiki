@@ -16,7 +16,7 @@
 * [Jasmine - (,8\*RTX4090 24G,,)]()
 * [Lavender - (,8\*RTX4090 24G,,)]()
 
-以及 AutoDL 上可租用的服务器，详见[AutoDL 租用]()
+以及 AutoDL 上可租用的服务器，详见[AutoDL 租用](autodl-info.md)
 ### 网络环境
 
 
