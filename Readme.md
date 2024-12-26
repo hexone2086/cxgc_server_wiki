@@ -12,13 +12,14 @@
 
 目前工场共有*三*台服务器
 
-* [Sycamore - (2\*Xeon(R) Gold 5218R, 4\*A40 48G, 251G, 27TB) - (ubuntu 22.04, KDE-plasma)](./server-info-sycamore.md)
-* [Jasmine - (,8\*RTX4090 24G,,)]()
-* [Lavender - (,8\*RTX4090 24G,,)]()
+* [Sycamore - (2\*Xeon(R) Gold 5218R, 4\*A40 48G, 251G, 27TB) - (ubuntu 22.04, KDE-plasma)](./server-info-sycamore.md) [<img src="https://monitor.brisky.space/api/badge/3/status">](<https://monitor.brisky.space/status/cxgc>) [<img src="https://monitor.brisky.space/api/badge/3/uptime">](<[LINK](https://monitor.brisky.space/status/cxgc)>)
+* [Jasmine - (,8\*RTX4090 24G,,)]()[<img src="https://monitor.brisky.space/api/badge/5/status">](<https://monitor.brisky.space/status/cxgc>) [<img src="https://monitor.brisky.space/api/badge/5/uptime">](<[LINK](https://monitor.brisky.space/status/cxgc)>)
+* [Lavender - (,8\*RTX4090 24G,,)]()[<img src="https://monitor.brisky.space/api/badge/6/status">](<https://monitor.brisky.space/status/cxgc>) [<img src="https://monitor.brisky.space/api/badge/6/uptime">](<[LINK](https://monitor.brisky.space/status/cxgc)>)
 
 以及 AutoDL 上可租用的服务器，详见[AutoDL 租用](autodl-info.md)
 ### 网络环境
 
+文件传输请注意！参见[文件传输小寄巧](tricks/file_transmission.md)
 
 ## 操作指南
 
@@ -26,39 +27,12 @@
 
 参见[新手上路指南](./beginner.md)
 
-### SSH 连接
+### 联系
 
-#### 公网
-> 部分服务器可用通过公网服务器转发的 xrdp 连接
-
-Sycamore-A40
-```shell
-ssh -p 7010 <username>@cxgc.brisky.space
-```
-
-#### 局域网
-
-### XRDP 连接
-
-#### 公网
-> 部分服务器可用通过公网服务器转发的 xrdp 连接
-
-#### 局域网
-
-### 公网 FRP 连接
-
-## 相关服务
-
-### 自托管服务
-
-### 其它服务
-
-## 管理策略
-
-### 报障流程
-
-### 管理员
-
-* XiaoHan - [examle@example.com]() - Jasmine&Lavender
+#### 账户\故障\权限等问题请联系
 * CaoWangrenbo - [cao.wangrenbo@yandex.com](mailto:cao.wangrenbo@yandex.com) - [Sycamore](./server-info-sycamore.md)
+
+#### 转发服务状态监控
+
+
 
