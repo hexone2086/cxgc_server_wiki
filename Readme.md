@@ -19,13 +19,17 @@
 以及 AutoDL 上可租用的服务器，详见[AutoDL 租用](autodl-info.md)
 ### 网络环境
 
-文件传输请注意！参见[文件传输小寄巧](tricks/file_transmission.md)
+文件传输请注意！参见[文件传输小寄巧](./tricks/file_transmission.md)
 
 ## 操作指南
 
 ### 初次上手
 
 参见[新手上路指南](./beginner.md)
+
+### 图形化桌面
+
+参见[图形化桌面 Tips](./tricks/graphic.md)
 
 ### 联系
 

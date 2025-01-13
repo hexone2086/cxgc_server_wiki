@@ -2,7 +2,7 @@
 > 目前该部分仅针对 Sycamore-A40 服务器
 
 ## 用户注册
-~~服务器采用LDAP方式管理用户~~ 暂时还没实现
+~~服务器采用 LDAP 方式管理用户~~ 暂时还没实现
 
 目前，对于 `Sycamore-A40`，暂时请按照以下模板发送邮件至 [<CaoWangrenbo>cao.wangrenbo@yandex.com](mailto:cao.wangrenbo@yandex.com)：
 

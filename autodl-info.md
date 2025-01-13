@@ -5,7 +5,7 @@
 
 唯一需要做的事情，就是联系江文博士开通子账号，并且保存好自己的账号密码。
 
-进入 [AutoDL官网](https://www.autodl.com/)
+进入 [AutoDL 官网](https://www.autodl.com/)
 
 好了，现在点击**子账号登录**
 ![子账号登录界面](./src/image/autodl-login-page.png)
@@ -18,7 +18,7 @@
 ![autodl page 1](./src/image/autodl-page-1.png)
 点击容器实例，租用新实例。
 
-选择计费方式、地区、GPU的数量。**选择 GPU 的时候需要特别关注一下当前实例支持的 CUDA 版本**。
+选择计费方式、地区、GPU 的数量。**选择 GPU 的时候需要特别关注一下当前实例支持的 CUDA 版本**。
 
 选择环境镜像的配置，**推荐直接选用只有 Miniconda 的环境**。
 
